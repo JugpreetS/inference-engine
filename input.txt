@@ -1,0 +1,7 @@
+C(Tom)
+5
+A(x)&B(x)=>C(Tom)
+A(x)&D(x)=>C(Tom)
+A(Tom)
+B(Bob)
+D(Tom)
